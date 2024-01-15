@@ -1,6 +1,8 @@
 <div align="center">
   
-<img src="https://github.com/zborja1/zborja1/assets/155580520/68f72f42-3106-4689-b7db-f2f6cdb747ee">
+<img src="https://github.com/zborja1/zborja1/assets/155580520/dcf4f872-e2e2-424b-88a7-5bfbe6bd8b45">
+
+
 
 # About Me 👩‍💻
 
