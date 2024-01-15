@@ -47,9 +47,24 @@ A data enthusiast with a love for turning raw data into actionable intelligence.
 
            Certified Diploma Executive Trader | Trading College | Bucaramanga, Colombia 2018.
            
+###
+
+<h3 align="left">💻  Projects </h3>
+
+Visit https://github.com/zborja1?tab=repositories to see all my projects
+
 
 ###
 
+<h3 align="left">🌎 Languages </h3>
+
+           Spanish | Native/ Bilingual 
+
+           English | Professional working proficiency 	
+           
+           Portuguese | Professional working proficiency
+           
+###
 <h3 align="left">📑 Experience </h3>
 
 **Customs Specialist | Canpar Express - Etobicoke, ON | 06/2023 - Current**
@@ -72,17 +87,5 @@ A data enthusiast with a love for turning raw data into actionable intelligence.
 - Provided personalized guidance to customers seeking loans for import and export activities, achieving positive customer experiences.
 - Assisted in preparing and organizing documentation for loan applications, ensuring completeness and accuracy.
 
-###
-<h3 align="left">🌎 Languages </h3>
 
-           Spanish | Native/ Bilingual 
 
-           English | Professional working proficiency 	
-           
-           Portuguese | Professional working proficiency
-
-###
-
-<h3 align="left">💻  Projects </h3>
-
-Visit https://github.com/zborja1?tab=repositories to see all my projects
