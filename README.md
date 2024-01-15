@@ -51,7 +51,7 @@ A data enthusiast with a love for turning raw data into actionable intelligence.
 
 <h3 align="left">💻  Projects </h3>
 
-Visit https://github.com/zborja1?tab=repositories to see all my projects
+Explore my projects at https://github.com/zborja1?tab=repositories and stay tuned for more exciting additions as I continue to enhance my portfolio!
 
 
 ###
