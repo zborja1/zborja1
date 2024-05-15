@@ -1,7 +1,7 @@
 <div align="center">
-  
-<img src="https://github.com/zborja1/zborja1/assets/155580520/87f64cb6-a67b-4a9e-a286-0d2543f729c8">
 
+
+![Cream Black Minimalist Art Deco Wedding Banner](https://github.com/zborja1/zborja1/assets/155580520/3a9ac2d4-21ac-4a1a-9876-0c2434b09b9b)
 
 
 
@@ -71,10 +71,15 @@ https://github.com/zborja1/Biodiversity_Project/blob/main/Biodiversity_Project.i
 <h3 align="left">📑 Experience </h3>
 
 **Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - Current**
+
 **Customs Specialist | Canpar Express - Etobicoke, ON | 06/2022 - Current**  
+
 **Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2022**
+
 **Investment Manager | Trading College - Bucaramanga, Colombia | 12/2018 - 08/2019** 
+
 **Finance Manager | Dismacal SAS - Bucaramanga, Colombia | 03/2015 - 08/2019**  
+
 **Foreign Trade Specialist (Internship) | Av Villas Bank - Bogota, Colombia | 07/2014 - 01/2015**
 
 
