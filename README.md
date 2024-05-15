@@ -7,9 +7,7 @@
 
 # About Me 👩‍💻
 
-I've recently embarked on an exciting journey into the realm of data analysis. 
-With over 8 years of diverse experience with a robust skill set in logistics, finance and investments.
-A data enthusiast with a love for turning raw data into actionable intelligence. Armed with skills in data visualization, predictive modeling, and a meticulous attention to detail, I am on a mission to empower businesses with the insights they need to thrive. By combining technical prowess with a passion for uncovering trends, I strive to make data not just informative, but a driving force behind informed and impactful decision-making.
+Data-driven and analytical economist proficient in SQL, Python, R, Tableau and Power BI.  Bringing over 8 years of experience in logistics, finance, and investments. Passionate about discovering meaningful patterns and trends that aid in decision-making and committed to utilizing data analysis and visualization skills to contribute to data-driven solutions that have a positive impact.
 
 ### 🛠 Language and tools 
 
