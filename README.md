@@ -53,7 +53,7 @@ Data-driven and analytical economist proficient in SQL, Python, R, Tableau and P
 <h3 align="left">💻  Projects </h3>
 
 Explore my projects at https://github.com/zborja1?tab=repositories and stay tuned for more exciting additions as I continue to enhance my portfolio!
-https://github.com/zborja1/Biodiversity_Project/blob/main/Biodiversity_Project.ipynb
+
 
 
 
