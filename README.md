@@ -13,7 +13,7 @@ Data-driven and analytical economist proficient in SQL, Python, R, Tableau and P
 
 ###
 
-<img src="[https://en.m.wikipedia.org/wiki/File:Tableau_Logo.png](https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg)" height="45" alt="tableau logo"  />
+<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="45" alt="tableau logo"  />
 <img width="12" />
 
 <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" height="45" alt="python logo"  />
