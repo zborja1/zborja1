@@ -61,7 +61,7 @@ https://github.com/zborja1/Biodiversity_Project/blob/main/Biodiversity_Project.i
 
 <h3 align="left">🌎 Languages </h3>
 
-           Spanish | Native/ Bilingual 
+           Spanish | Native
 
            English | Professional working proficiency 	
            
@@ -70,25 +70,12 @@ https://github.com/zborja1/Biodiversity_Project/blob/main/Biodiversity_Project.i
 ###
 <h3 align="left">📑 Experience </h3>
 
-**Customs Specialist | Canpar Express - Etobicoke, ON | 06/2023 - Current**
-- Collaborated with a strategic transportation partner, achieving a 30% improvement in freight transit times between Canada and the United States.
-- Ensured 98% accuracy in customs declarations for cross-border shipments, mitigating the risk of delays and penalties.
-  
-**Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2023**
-- Organized and coordinated small sort area operations, resulting in accurate categorization and timely processing of packages.
-- Implemented quality control measures, minimizing errors and discrepancies in shipments, enhancing customer satisfaction, and reducing returns.
-
-**Investment Manager | Trading College - Bucaramanga, Colombia | 12/2018 - 08/2019**
-- Provided investment solutions aligned with client needs, optimizing portfolios and ensuring alignment with financial goals and risk tolerance.
-- Managed investment funds exceeding 300k USD, consistently delivering a robust average monthly profit of 6%.
-  
-**Finance and Accounting Manager | Dismacal SAS - Bucaramanga, Colombia | 03/2015 - 08/2019**
-- Improved financial relationships by proactively addressing billing and payment disputes, and facilitating effective communication with clients, suppliers, and distributors.
-- Led the transition to SIIGO software, resulting in a 98% reduction in financial and accounting failures, showcasing commitment to technological advancement and operational excellence.
-  
-**Banking Specialist in Foreign Trade (Internship) | Av Villas Bank - Bogota, Colombia | 07/2014 - 01/2015**
-- Provided personalized guidance to customers seeking loans for import and export activities, achieving positive customer experiences.
-- Assisted in preparing and organizing documentation for loan applications, ensuring completeness and accuracy.
+**Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - Current**
+**Customs Specialist | Canpar Express - Etobicoke, ON | 06/2022 - Current**  
+**Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2022**
+**Investment Manager | Trading College - Bucaramanga, Colombia | 12/2018 - 08/2019** 
+**Finance Manager | Dismacal SAS - Bucaramanga, Colombia | 03/2015 - 08/2019**  
+**Foreign Trade Specialist (Internship) | Av Villas Bank - Bogota, Colombia | 07/2014 - 01/2015**
 
 
 
