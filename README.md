@@ -13,6 +13,8 @@ Data-driven and analytical economist proficient in SQL, Python, R, Tableau and P
 
 ###
 
+<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/tableau-full-logo#google_vignette.png" height="45" alt="tableu logo"  />
+<img width="12" />
 
 <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" height="45" alt="python logo"  />
 <img width="12" />
