@@ -4,15 +4,20 @@
 ![intro](https://github.com/zborja1/photo/blob/main/Zaida%20Borja%20(1).png)
 
 
+<div align="left">
+           
+### About Me 👩‍💻
 
-# About Me 👩‍💻
+Hi, I'm Zaida Borja! I am an experienced data-driven analyst with over 8 years of expertise across logistics, finance, and investments. I recently completed my Data Analyst diploma at the Toronto School of Management, where I strengthened my technical skills in SQL, Python, R, Excel, and Power BI.
 
-Data-driven and analytical economist proficient in SQL, Python, R, Tableau and Power BI.  Bringing over 8 years of experience in logistics, finance, and investments. Passionate about discovering meaningful patterns and trends that aid in decision-making and committed to utilizing data analysis and visualization skills to contribute to data-driven solutions that have a positive impact.
+My background enables me to analyze complex datasets, identify trends, and deliver actionable insights. I'm now eager to apply these skills in an entry-level data analyst role, where I can contribute to data-driven decision-making processes and help organizations optimize their operations.
+
+In my spare time, I enjoy staying current with new analytical tools and techniques, always seeking opportunities to expand my knowledge and improve my craft. Whether working independently or within a team, I am passionate about using data to solve problems and drive impactful outcomes.
 
 ### 🛠 Language and tools 
 
 ###
-
+<div align="center">
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="45" alt="tableau logo"  />
 <img width="12" />
 
@@ -36,6 +41,18 @@ Data-driven and analytical economist proficient in SQL, Python, R, Tableau and P
 
 </div>
 
+###
+
+<h3 align="left">💻  Projects </h3>
+
+<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="45" alt="tableau logo"  /> 
+<img width="12" /> 
+
+* [My Tableau Public Profile](https://public.tableau.com/app/profile/zaida.borja/vizzes)
+
+Explore my projects at https://github.com/zborja1?tab=repositories and stay tuned for more exciting additions as I continue to enhance my portfolio!
+
+
 ### 📚 Education 
 
            Data Analytics | Toronto School of Management | Toronto, Canada | 2024.
@@ -47,14 +64,6 @@ Data-driven and analytical economist proficient in SQL, Python, R, Tableau and P
            Certified Diploma on Trading and Financial Market | Trading College | Bucaramanga, Colombia 2017.
 
            Certified Diploma Executive Trader | Trading College | Bucaramanga, Colombia 2018.
-           
-###
-
-<h3 align="left">💻  Projects </h3>
-
-Explore my projects at https://github.com/zborja1?tab=repositories and stay tuned for more exciting additions as I continue to enhance my portfolio!
-
-
 
 
 ###
