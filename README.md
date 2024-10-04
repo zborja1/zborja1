@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Cream Black Minimalist Art Deco Wedding Banner](https://github.com/zborja1/zborja1/assets/155580520/3a9ac2d4-21ac-4a1a-9876-0c2434b09b9b)
+![intro](https://github.com/zborja1/photo/blob/main/Zaida%20Borja%20(1).png)
 
 
 
