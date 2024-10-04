@@ -45,12 +45,14 @@ In my spare time, I enjoy staying current with new analytical tools and techniqu
 
 <h3 align="left">💻  Projects </h3>
 
+Explore my projects below and stay tuned for more exciting additions as I continue to enhance my portfolio!
+
 <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="45" alt="tableau logo"  /> 
 <img width="12" /> 
 
 * [My Tableau Public Profile](https://public.tableau.com/app/profile/zaida.borja/vizzes)
 
-Explore my projects at https://github.com/zborja1?tab=repositories and stay tuned for more exciting additions as I continue to enhance my portfolio!
+
 
 
 ### 📚 Education 
@@ -79,17 +81,17 @@ Explore my projects at https://github.com/zborja1?tab=repositories and stay tune
 ###
 <h3 align="left">📑 Experience </h3>
 
-**Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - Current**
+* Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - Current
 
-**Customs Specialist | Canpar Express - Etobicoke, ON | 06/2022 - Current**  
+* Customs Specialist | Canpar Express - Etobicoke, ON | 06/2022 - Current
 
-**Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2022**
+* Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2022
 
-**Investment Manager | Trading College - Bucaramanga, Colombia | 12/2018 - 08/2019** 
+* Investment Manager | Trading College - Bucaramanga, Colombia | 12/2018 - 08/2019
 
-**Finance Manager | Dismacal SAS - Bucaramanga, Colombia | 03/2015 - 08/2019**  
+* Finance Manager | Dismacal SAS - Bucaramanga, Colombia | 03/2015 - 08/2019
 
-**Foreign Trade Specialist (Internship) | Av Villas Bank - Bogota, Colombia | 07/2014 - 01/2015**
+* Foreign Trade Specialist (Internship) | Av Villas Bank - Bogota, Colombia | 07/2014 - 01/2015
 
 
 
