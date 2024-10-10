@@ -47,10 +47,13 @@ In my spare time, I enjoy staying current with new analytical tools and techniqu
 
 Explore my projects below and stay tuned for more exciting additions as I continue to enhance my portfolio!
 
-<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="45" alt="tableau logo"  /> 
-<img width="12" /> 
 
-* [My Tableau Public Profile](https://public.tableau.com/app/profile/zaida.borja/vizzes)
+
+* Tableau
+  - [My Tableau Public Profile](https://public.tableau.com/app/profile/zaida.borja/vizzes)
+
+* Python - Jupiter Notebook
+  - h
 
 
 
