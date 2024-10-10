@@ -59,6 +59,8 @@ Explore my projects below and stay tuned for more exciting additions as I contin
 * R
 * Power BI
   - [AdventureWorks Sales Analysis](https://github.com/zborja1/Sales-Analysis---Power-Bi/blob/main/AdventureWorks%2C%20Sales%20-%20zaida%20borja.pdf)
+  - [Colombia Real State Dashboard](https://github.com/zborja1/Colombia-Real-State-Dashboard---Power-BI-/blob/main/Colombia%20Houses%20-%20Zaida%20Borja.pdf)
+  - [Amazon Books Dashboard](https://github.com/zborja1/Amazon-Book-Dashboard---Power-BI/blob/main/Books%20-%20Zaida%20Borja.pdf)
 
 
 
