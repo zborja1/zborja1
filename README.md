@@ -53,7 +53,12 @@ Explore my projects below and stay tuned for more exciting additions as I contin
   - [My Tableau Public Profile](https://public.tableau.com/app/profile/zaida.borja/vizzes)
 
 * Python - Jupiter Notebook
-  - h
+  - [OkCupid Project](https://github.com/zborja1/OkCupid_Project/blob/main/OkCupid_project.ipynb)
+  - [Biodiversity Project](https://github.com/zborja1/Biodiversity_Project/blob/main/Biodiversity_Project.ipynb)
+ 
+* R
+* Power BI
+  - [AdventureWorks Sales Analysis](https://github.com/zborja1/Sales-Analysis---Power-Bi/blob/main/AdventureWorks%2C%20Sales%20-%20zaida%20borja.pdf)
 
 
 
