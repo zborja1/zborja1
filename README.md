@@ -92,9 +92,9 @@ Explore my projects below and stay tuned for more exciting additions as I contin
 ###
 <h3 align="left">📑 Experience </h3>
 
-* Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - Current
-
 * Customs Specialist | Canpar Express - Etobicoke, ON | 06/2022 - Current
+  
+*  Remote Data Analyst | rCycle - Toronto, ON | 02/2024 - 09/2024
 
 * Logistics Specialist | Canpar Express - Etobicoke, ON | 01/2020 – 06/2022
 
