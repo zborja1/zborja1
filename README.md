@@ -8,9 +8,9 @@
            
 ### About Me 👩‍💻
 
-Hi, I'm Zaida Borja! I am an experienced data-driven analyst with over 8 years of expertise across logistics, finance, and investments. I recently completed my Data Analyst diploma at the Toronto School of Management, where I strengthened my technical skills in SQL, Python, R, Excel, and Power BI.
+Hi, I'm Zaida Borja! I am an experienced data-driven analyst with over 10 years of expertise across logistics, finance, and investments. I recently completed my Data Analyst diploma at the Toronto School of Management, where I strengthened my technical skills in SQL, Python, R, Excel, and Power BI.
 
-My background enables me to analyze complex datasets, identify trends, and deliver actionable insights. I'm now eager to apply these skills in an entry-level data analyst role, where I can contribute to data-driven decision-making processes and help organizations optimize their operations.
+My background enables me to analyze complex datasets, identify trends, and deliver actionable insights. I'm now eager to apply these skills in a data analyst role, where I can contribute to data-driven decision-making processes and help organizations optimize their operations.
 
 In my spare time, I enjoy staying current with new analytical tools and techniques, always seeking opportunities to expand my knowledge and improve my craft. Whether working independently or within a team, I am passionate about using data to solve problems and drive impactful outcomes.
 
